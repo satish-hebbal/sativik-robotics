@@ -130,11 +130,6 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 2px;
 }
 
-/* Card shadows */
-.card-shadow {
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08), 0 2px 4px rgba(0, 0, 0, 0.06);
-}
-
 /* Button hover effects */
 .btn-hover {
   transition: all 0.3s ease;
@@ -142,7 +137,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn-hover:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(255, 136, 0, 0.3);
 }
 
 
