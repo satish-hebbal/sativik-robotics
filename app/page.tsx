@@ -22,9 +22,7 @@ export default function Home() {
                 {/* Text Content */}
                 <div className="flex-1 space-y-4 lg:space-y-6 pt-12 lg:pt-0">
                   <p className="text-base md:text-lg lg:text-2xl xl:text-3xl text-black mb-2 leading-relaxed">
-                    <span className="font-bold">A 4-hour</span> <span className="font-semibold">hands-on</span>
-                    <br />
-                    robotics adventure
+                    <span className="whitespace-nowrap"><span className="font-bold">A 4-hour</span> <span className="font-semibold">hands-on</span></span> robotics adventure
                     <br />
                     for curious teens
                     <br />
